@@ -1,5 +1,7 @@
-# IP段匹配
-IP-CIDR,142.171.133.131/32,no-resolve
-IP-CIDR,103.115.43.2/32,no-resolve
-IP-CIDR,104.236.69.0/24,no-resolve
+# NAME: Own.list
+# AUTHOR: Aethersailor
+# REPO: https://github.com/wglgren/clash-rule/edit/main/Own.list
+# 强制代理列表，来自个人收集
 
+# Carel 官网
+#DOMAIN-SUFFIX,carel.com
